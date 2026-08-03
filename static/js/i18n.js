@@ -8,11 +8,11 @@
     // 语言词典
     var translations = {
         zh: {
-            'hello': '你好，我是',
-            'desc.job': '👦 <span class="purpleText">Java</span> 开发者',
-            'desc.quote': '📝 做到伟大的唯一方法，就是热爱你所做的事。',
+            'hello': "Hello I'm",
+            'desc.job': '👦 <span class="purpleText">Java、Go</span> 开发者',
+            'desc.quote': '📝 Build what you believe in. Create what matters.',
             'location': '湖南',
-            'free': '免费',
+            'free': 'Free',
             'tag.work': '打工',
             'tag.frontend': '前端',
             'tag.crawler': '爬虫',
@@ -37,8 +37,8 @@
         },
         en: {
             'hello': "Hello I'm",
-            'desc.job': '👦 <span class="purpleText">Java</span> Developer',
-            'desc.quote': '📝 The only way to do <span class="purpleText textBackground">great</span> is to <span class="purpleText textBackground">love</span> what you do.',
+            'desc.job': '👦 <span class="purpleText">Java、Go</span> Developer',
+            'desc.quote': '📝 Build what you believe in. Create what matters.',
             'location': 'Hunan',
             'free': 'Free',
             'tag.work': 'Work',
